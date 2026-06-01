@@ -9,7 +9,7 @@ Embedded Systems • Hardware Engineering • VLSI • SoC Firmware
 
 ## 🧑‍💻 About Me
 
-Pre-final year ECE undergraduate (CGPA 9.17/10.0) building at the intersection of embedded systems, SoC-level firmware, hardware design, and IoT device development. 
+Final year ECE undergraduate (CGPA 9.3/10.0) building at the intersection of embedded systems, SoC-level firmware, hardware design, and IoT device development. 
 I ship real-world prototypes end-to-end — from bare-metal C firmware and RTOS-based control loops on ARM Cortex-M4 to designing custom KiCad PCBs and implementing low-latency wireless communication protocols — with a strong focus on digital hardware engineering.
 
 🔨 **Embedded Firmware:** STM32 (ARM Cortex-M4), ESP32, Teensy 4.1, Raspberry Pi, FreeRTOS, bare-metal C/C++
