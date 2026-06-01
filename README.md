@@ -3,7 +3,7 @@
 **Electronics & Communication Engineering Undergraduate · Shri Ramdeobaba College**
 **Embedded Systems • AI Hardware Acceleration • Autonomous Robotics • Biomedical Engineering**
 
-[LinkedIn](www.linkedin.com/in/akulkute) • [Email](#kuteakul996@gmail.com) • [Portfolio](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/akulkute) • [Email](mailto:kuteakul996@gmail.com) • [Portfolio](#) • [GitHub](https://github.com/Akulkute)
 
 ---
 
