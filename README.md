@@ -64,6 +64,12 @@ C · ESP32 · Hardware Integration · IoT Sensors
 * Implemented real-time vital sign monitoring, accurately tracking SpO₂ and temperature
 * Designed a wireless alert system for immediate status notifications, demonstrating end-to-end biomedical IoT system integration
 
+🏭 **Industrial Rotary Roaster Temperature Monitor**
+ESP32 · RTD Sensor · MAX Amplifier · Slip Rings · 7-Segment Display
+* Engineered a wired data acquisition system using an ESP32 and an RTD sensor paired with a MAX amplifier to capture precise, real-time temperature data from a continuously rotating industrial roaster
+* Overcame rotational wiring constraints by integrating electromechanical slip rings, ensuring continuous and reliable sensor signal transmission from the moving hardware
+* Interfaced a 3-digit Seven Segment Display (SSD) for immediate on-site temperature visualization, enabling operators to maintain consistent thermal profiles and prevent equipment overheating
+
 🐁 **Micromouse — Maze-Solving Autonomous Robot**
 Teensy 4.1 · C++ · TOF Sensors · Flood-Fill Algorithm | 2 Months
 * Built a fully autonomous maze-solving robot using Teensy 4.1, 5 TOF distance sensors, and encoder motors with TB6612FNG driver
