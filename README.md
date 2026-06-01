@@ -3,7 +3,7 @@
 **Electronics & Communication Engineering Undergraduate · Shri Ramdeobaba College**
 **Embedded Systems • AI Hardware Acceleration • Autonomous Robotics • Biomedical Engineering**
 
-[LinkedIn](www.linkedin.com/in/akulkute) • [Email](#) • [Portfolio](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/akulkute) • [Email](#kuteakul996@gmail.com) • [Portfolio](#) • [GitHub](#)
 
 ---
 
@@ -76,7 +76,7 @@ C/C++ • Advanced MySQL (Joins, Aggregations) • Database Management • Data 
 
 ## 📫 Contact
 
-* 📧 **Email:** [Your Email Here]
+* 📧 **Email:** [kuteakul996@gmail.com]
 * 📍 **Location:** Pune / Nagpur, Maharashtra, India
 * 💼 **LinkedIn:** [www.linkedin.com/in/akulkute]
 
