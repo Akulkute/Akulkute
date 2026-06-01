@@ -89,9 +89,8 @@ Teensy 4.1 · C++ · TOF Sensors · Flood-Fill Algorithm | 2 Months
 
 ## 📫 Contact
 
-📧 kuteakul996@gmail.com
-🌐 [Portfolio Link](#) — portfolio & live demos
-📍 Nagpur, Maharashtra, India
-💼 linkedin.com/in/akulkute
+* 📧 **Email:** [kuteakul996@gmail.com]
+* 📍 **Location:** Pune / Nagpur, Maharashtra, India
+* 💼 **LinkedIn:** [www.linkedin.com/in/akulkute]
 
 > *From custom KiCad PCBs to SoC-level flight controllers — building hardware systems that work in the real world.*
