@@ -3,7 +3,7 @@
 **Electronics & Communication Engineering Undergraduate · Shri Ramdeobaba College**
 **Embedded Systems • AI Hardware Acceleration • Autonomous Robotics • Biomedical Engineering**
 
-[LinkedIn](#) • [Email](#) • [Portfolio](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/akulkute) • [Email](#) • [Portfolio](#) • [GitHub](#)
 
 ---
 
@@ -78,6 +78,6 @@ C/C++ • Advanced MySQL (Joins, Aggregations) • Database Management • Data 
 
 * 📧 **Email:** [Your Email Here]
 * 📍 **Location:** Pune / Nagpur, Maharashtra, India
-* 💼 **LinkedIn:** [Your LinkedIn URL]
+* 💼 **LinkedIn:** [www.linkedin.com/in/akulkute]
 
 > *Building systems from bare-metal code to autonomous flight.*
