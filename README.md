@@ -58,6 +58,12 @@ C · ESP-NOW · IoT · Custom PCB · Wireless Sensing | 3 Months
 * Achieved sub-50ms transmission latency to a central dashboard with no local Wi-Fi required
 * Designed custom PCB and firmware stack from scratch, optimized for low-power operation in interference-prone environments
 
+🛏️ **Smart Baby Blanket — Wireless Thermal & Vitals Monitor**
+C · ESP32 · Hardware Integration · IoT Sensors
+* Engineered a wire-free ESP32-based infant blanket featuring closed-loop thermal regulation using Peltier heating and cooling elements
+* Implemented real-time vital sign monitoring, accurately tracking SpO₂ and temperature
+* Designed a wireless alert system for immediate status notifications, demonstrating end-to-end biomedical IoT system integration
+
 🐁 **Micromouse — Maze-Solving Autonomous Robot**
 Teensy 4.1 · C++ · TOF Sensors · Flood-Fill Algorithm | 2 Months
 * Built a fully autonomous maze-solving robot using Teensy 4.1, 5 TOF distance sensors, and encoder motors with TB6612FNG driver
