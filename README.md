@@ -3,7 +3,7 @@ Hi, I'm Akul Suresh Kute
 Electronics & Communication Engineering Undergraduate · Ramdeobaba College of Engineering, Nagpur
 Embedded Systems • Hardware Engineering • VLSI • SoC Firmware
 
-[LinkedIn](https://www.linkedin.com/in/akulkute) • [Email](mailto:kuteakul996@gmail.com) • [Portfolio](#) • [GitHub](https://github.com/Akulkute)
+[LinkedIn](https://www.linkedin.com/in/akulkute) • [Email](mailto:kuteakul996@gmail.com) • [GitHub](https://github.com/Akulkute)
 
 ---
 
